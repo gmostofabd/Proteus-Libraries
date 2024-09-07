@@ -1,7 +1,11 @@
 # Proteus Library
 Here you will find a collection of Proteus Libraries for Simulation, PCB Footprint, 3D Models and Demo exaples. The most common devices which are not available directly in your Proteus Software.
 
-![Proteus ISIS first Window](https://github.com/user-attachments/assets/0210005e-72ee-486c-997c-5a2204d154c7)
+![25_5](https://github.com/user-attachments/assets/c596456c-ea65-4297-befa-3a46411aec58)
+
+![25_1](https://github.com/user-attachments/assets/848b2884-9560-418a-a633-85c9bdfa9055)
+
+![Full_2](https://github.com/user-attachments/assets/d8d164d2-592e-43e7-bb24-cc0b87a053e4)
 
 **Table of Contents**
 -  Arduino Proteus Library
