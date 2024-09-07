@@ -1,0 +1,16 @@
+These files is for Schematic and PCB design only.
+
+How to Install:
+
+Step 1:Extract Zip Folder and Paste  all these  files USERDVC.LIB,USERDVC.IDX and
+USERPKG.LIB, USERPKG.IDX into Library 
+and 
+ESP8277.STP into MCAD 
+folder of Proteus Software.
+
+Step 2: If you are using Proteus 8 software then Library folder and MCAD Folder will be within the data Folder (Proteus 8 ProfessionalDataLIBRARY ) OR ProgramData (C:ProgramDataLabcenter ElectronicsProteus 8 ProfessionalLIBRARYand MCAD Folder)
+
+Step 3: Now open Proteus software (restart it if it’s already open) and click on add component tab and search for  NodeMCU.
+
+yon can visit my website thanks
+https://projectiot123.com
