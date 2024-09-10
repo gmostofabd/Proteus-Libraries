@@ -10,6 +10,12 @@ Here you will find a collection of Proteus Libraries for Simulation, PCB Footpri
 
 You can download the Arduino Proteus Library using the link below or the button near the end of this tutorial. And unzip the folder to see its contents, and here is what’s inside.
 
+
+![ir2](https://github.com/user-attachments/assets/208401fc-95f1-4e60-80cf-a7ce7dac42e1)
+![ir1](https://github.com/user-attachments/assets/59005c9f-ff5f-40f4-a420-ee0453fc44a8)
+![ir_flame_deector_circuit2](https://github.com/user-attachments/assets/6fba3c58-fed8-44a5-b9ca-c474de2e9788)
+
+
 Unzip the library folder and open it, and you’ll find some folders and files. The Files I’ve marked in the screenshot above, are the model files ( .LIB and .IDX ) that we’ll copy and paste for installing the Arduino Proteus Library. Follow the next section’s step-by-step installation guide.
 
 ![Proteus Libraries](https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c)
