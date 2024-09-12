@@ -8,6 +8,9 @@ Proteus is widely used among embedded system developers for its powerful simulat
 
 ![25_1](https://github.com/user-attachments/assets/848b2884-9560-418a-a633-85c9bdfa9055)
 
+![Irregation Controller 2](https://github.com/user-attachments/assets/eadb2674-f198-4313-937b-edfed6aa9870)
+
+
 Following the highly popular Proteus 7, the platform has evolved with the introduction of Proteus version 8, which brings even more advanced features and improved functionality for modern design and simulation needs. Whether you're working on microcontroller projects, IoT devices, or complex circuit designs, Proteus continues to be a valuable tool in the embedded systems ecosystem.
 
 ![Irregation Controller 1](https://github.com/user-attachments/assets/832e247f-9438-4411-a0b1-71cb9bed474a)
