@@ -3,6 +3,9 @@ Here you will find a collection of Proteus Libraries for Simulation, PCB Footpri
 
 ![25_1](https://github.com/user-attachments/assets/848b2884-9560-418a-a633-85c9bdfa9055)
 
+
+You can download the Arduino Proteus Library from this repository alongwith properly captions. Then unzip the folder to see its contents, and here is what’s inside.
+<br/>
 **Table of Contents**
 -  Proteus Library
 -  Proteus Library Simulation Demo
@@ -49,7 +52,14 @@ All Proteus Sensor's Libraries
 👉STM32                        
 ======================================
 
-You can download the Arduino Proteus Library using the link below or the button near the end of this tutorial. And unzip the folder to see its contents, and here is what’s inside.
+** What to do?**
+
+You have to put library files to libray files in labcenter/proteus/library that has files with extension "lib" and other files models you have to it to model files labcenter/proteus/models.
+
+
+
+
+
 
 ![ir_flame_deector_circuit2](https://github.com/user-attachments/assets/6fba3c58-fed8-44a5-b9ca-c474de2e9788)
 ![ir2](https://github.com/user-attachments/assets/208401fc-95f1-4e60-80cf-a7ce7dac42e1) ![ir1](https://github.com/user-attachments/assets/59005c9f-ff5f-40f4-a420-ee0453fc44a8)
