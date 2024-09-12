@@ -50,8 +50,6 @@ All Proteus Sensor's Libraries
 You have to put library files to libray files in labcenter/proteus/library that has files with extension "lib" and other files models you have to it to model files labcenter/proteus/models.
 ======================================
 
-
-![ir_flame_deector_circuit2](https://github.com/user-attachments/assets/6fba3c58-fed8-44a5-b9ca-c474de2e9788)
 ![ir2](https://github.com/user-attachments/assets/208401fc-95f1-4e60-80cf-a7ce7dac42e1) ![ir1](https://github.com/user-attachments/assets/59005c9f-ff5f-40f4-a420-ee0453fc44a8)
 
 Unzip the library folder and open it, and you’ll find some folders and files. The Files I’ve marked in the screenshot above, are the model files ( .LIB and .IDX ) that we’ll copy and paste for installing the Arduino Proteus Library. Follow the next section’s step-by-step installation guide.
