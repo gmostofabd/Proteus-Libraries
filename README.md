@@ -12,9 +12,7 @@ Following the highly popular Proteus 7, the platform has evolved with the introd
 
 ![Proteus Library Thumbnail_1](https://github.com/user-attachments/assets/1899fd1e-a4dc-428b-a672-2d73f9e07407)
 
-
-
-![RTC Based Load Switch using Arduino Nano DS1307_3](https://github.com/user-attachments/assets/a3ecc19c-622d-400b-86ca-bc295f909169)
+![Irregation Controller 1](https://github.com/user-attachments/assets/832e247f-9438-4411-a0b1-71cb9bed474a)
 
 ![25_1](https://github.com/user-attachments/assets/848b2884-9560-418a-a633-85c9bdfa9055)
 
