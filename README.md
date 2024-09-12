@@ -1,6 +1,8 @@
 # Proteus Library
 Here you will find a collection of Proteus Libraries for Simulation, PCB Footprint, 3D Models and Demo exaples. The most common devices which are not available directly in your Proteus Software.
 
+![RTC Based Load Switch using Arduino Nano DS1307_3](https://github.com/user-attachments/assets/a3ecc19c-622d-400b-86ca-bc295f909169)
+
 ![25_1](https://github.com/user-attachments/assets/848b2884-9560-418a-a633-85c9bdfa9055)
 
 
