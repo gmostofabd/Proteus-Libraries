@@ -87,7 +87,7 @@ Unzip the library folder and open it, and you’ll find some folders and files. 
 ![Proteus Libraries](https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07" alt="Proteus Libraries" width="45%" height="auto">
+  <img src="https://github.com/user-attachments/assets/208401fc-95f1-4e60-80cf-a7ce7dac42e1" alt="Proteus Libraries" width="45%" height="auto">
   <img src="https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c" alt="Proteus Libraries" width="45%" height="auto">
 </p>
 
