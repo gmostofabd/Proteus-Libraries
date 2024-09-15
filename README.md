@@ -1,4 +1,4 @@
-# 🌟 **Proteus Libraries Collection** 🌟
+# 🌟 **Proteus Libraries** 🌟
 
 🔍 **When Do You Need a New Library in Proteus?**
 
@@ -16,11 +16,7 @@ By carefully choosing and integrating **custom libraries**, you can still extend
 📈 **Tip**: If a specific library is essential for your project, consider exploring **community-shared libraries** that can work with the free version!
 
 
-
-
-
-
-
+<br/>
 
 
 
@@ -34,6 +30,7 @@ Here you'll find a curated **collection** of **Proteus Libraries** for:
 These libraries feature a range of **🔧 essential devices** that may not be available directly in your Proteus software. Discover components and models that enhance your simulation and design experience! 🌟
 
 ---
+
 ![proteuslogo2](https://github.com/user-attachments/assets/80902421-4440-4199-8832-ccf42d149324) 
 <br/>
 
@@ -42,6 +39,7 @@ These libraries feature a range of **🔧 essential devices** that may not be av
 🚀 **Explore, simulate, and innovate** with our libraries and take your projects to the next level! 🚀
 
 <br/>
+
 ![Irregation Controller 2](https://github.com/user-attachments/assets/eadb2674-f198-4313-937b-edfed6aa9870)
 
 
