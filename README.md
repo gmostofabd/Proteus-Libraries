@@ -84,7 +84,10 @@ The schematic I used in **Proteus ISIS** to convert my PCB is shown below:
 
 - 👉 **Display Devices**  
 
-  - **LCD 16x2 for Proteus**  
+  - **LCD 16x2 for Proteus**
+  - **LCD 16x4 for Proteus**
+  - **LCD 20x4 for Proteus**
+  - **LCD 8x2 for Proteus** 
 
 =========================
 
@@ -93,9 +96,9 @@ The schematic I used in **Proteus ISIS** to convert my PCB is shown below:
 - 👉 **Arduino Boards and Sheilds**  
 
   - **Arduino Uno**
-  -   - **Arduino Nano**
-      -   - **Arduino Uno**
-          -   - **Arduino Uno**  
+  - **Arduino Nano**
+  - **Node MCU**
+  - **Wemos D1**  
 
 =========================
 
