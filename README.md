@@ -9,6 +9,8 @@ Here you'll find a curated **collection** of **Proteus Libraries** for:
 
 These libraries feature a range of **🔧 essential devices** that may not be available directly in your Proteus software. Discover components and models that enhance your simulation and design experience! 🌟
 
+🚀 **Explore, simulate, and innovate** with our libraries and take your projects to the next level! 🚀
+
 ---
 
 
@@ -37,7 +39,6 @@ By carefully choosing and integrating **custom libraries**, you can still extend
 
 **Proteus** is a powerful tool used by embedded system developers for its robust simulation capabilities. With its **intuitive** and **user-friendly** interface, Proteus is perfect for both **PCB design** and **circuit simulation**. It allows you to simulate a wide range of **electronic circuits** and **embedded systems**, making the development process more efficient and streamlined.
 
-🚀 **Explore, simulate, and innovate** with our libraries and take your projects to the next level! 🚀
 
 <br/>
 
