@@ -84,7 +84,9 @@ You have to put library files to libray files in labcenter/proteus/library that 
 
 Unzip the library folder and open it, and you’ll find some folders and files. The Files I’ve marked in the screenshot above, are the model files ( .LIB and .IDX ) that we’ll copy and paste for installing the Arduino Proteus Library. Follow the next section’s step-by-step installation guide.
 
-![Proteus Libraries](https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c" alt="Proteus Libraries" width="400" height="auto">
+</p>
 
 
 <hr/>
