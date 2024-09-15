@@ -41,11 +41,19 @@ By carefully choosing and integrating **custom libraries**, you can still extend
 
 
 <br/>
+<hr/>
+<br/>
+Here you can see a **3D model of an irrigation controller circuit PCB** in Proteus software. Do you think all the components shown here are available in your default library? The answer is likely **no**.
+
+In my case, I'm currently using **Proteus version 8.17 (SP0)**, and I’ve encountered the same issue. Some of the parts required for the design were missing from the default library. For example, I couldn't find the necessary **footprint for the 16x2 LCD** used in the controller circuit.
+
+This highlights the importance of having access to **custom libraries** when working on more advanced designs or specific projects. 
 
 ![Irregation Controller 2](https://github.com/user-attachments/assets/eadb2674-f198-4313-937b-edfed6aa9870)
 
 
-Following the highly popular Proteus 7, the platform has evolved with the introduction of Proteus version 8, which brings even more advanced features and improved functionality for modern design and simulation needs. Whether you're working on microcontroller projects, IoT devices, or complex circuit designs, Proteus continues to be a valuable tool in the embedded systems ecosystem.
+The schematic I used in **Proteus ISIS** to convert my PCB is shown below:
+
 
 
 <p align="center">
@@ -55,40 +63,52 @@ Following the highly popular Proteus 7, the platform has evolved with the introd
 
 ![Irregation Controller 1](https://github.com/user-attachments/assets/832e247f-9438-4411-a0b1-71cb9bed474a)
 
-![Proteus Library Thumbnail_1](https://github.com/user-attachments/assets/1899fd1e-a4dc-428b-a672-2d73f9e07407)
+<br/>
+<hr/>
+<br/>
 
 
-**Table of Contents**
--  Proteus Libraries
--  Components 3D Models (3ds, STP, Step etc)
--  Simulation Demo
--  Required Attachments (Hex files and others)
--  Instructions (if any)
+## 📚 **Table of Contents**
 
 =========================
-All Proteus Sensor's Libraries 
-👉Arduino  Libraries for Proteus        
-👉Bluetooth Library for Proteus     
-👉Heart Beat sensor for Proteus   
-👉Infrared sensor for Proteus         
-👉L298 Motor driver for Proteus    
-👉LCD 16x2 for Proteus    
-👉PIR Sensor for Proteus                
-👉Ultrasonic sensor for Proteus     
-👉Node MCU library for Proteus               
-👉Soil Moisture            
-======================================
+
+- 👉 **All Proteus Sensor Libraries**  
+  - **Arduino Libraries for Proteus**  
+  - **Bluetooth Library for Proteus**  
+  - **Heart Beat Sensor for Proteus**  
+  - **Infrared Sensor for Proteus**  
+  - **L298 Motor Driver for Proteus**  
+  - **LCD 16x2 for Proteus**  
+  - **PIR Sensor for Proteus**  
+  - **Ultrasonic Sensor for Proteus**  
+  - **Node MCU Library for Proteus**  
+  - **Soil Moisture Sensor for Proteus**
+
+=========================
+
+=========================
+
+- 👉 **Display Devices**  
+
+  - **LCD 16x2 for Proteus**
+  - **LCD 16x4 for Proteus**
+  - **LCD 20x4 for Proteus**
+  - **LCD 8x2 for Proteus** 
+
+=========================
+
+=========================
+
+- 👉 **Arduino Boards and Sheilds**  
+
+  - **Arduino Uno**
+  - **Arduino Nano**
+  - **Node MCU**
+  - **Wemos D1**  
+
+=========================
 
 
-======================================
-** What to do?**
-
-You have to put library files to libray files in labcenter/proteus/library that has files with extension "lib" and other files models you have to it to model files labcenter/proteus/models.
-======================================
-
-![ir2](https://github.com/user-attachments/assets/208401fc-95f1-4e60-80cf-a7ce7dac42e1) ![ir1](https://github.com/user-attachments/assets/59005c9f-ff5f-40f4-a420-ee0453fc44a8)
-
-Unzip the library folder and open it, and you’ll find some folders and files. The Files I’ve marked in the screenshot above, are the model files ( .LIB and .IDX ) that we’ll copy and paste for installing the Arduino Proteus Library. Follow the next section’s step-by-step installation guide.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c" alt="Proteus Libraries" width="400" height="auto">
@@ -132,6 +152,15 @@ It’s now done, and you can open Proteus (ISIS) and create a new project to tes
 
 
 <hr/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/208401fc-95f1-4e60-80cf-a7ce7dac42e1" alt="Proteus Libraries" width="45%" height="auto">
+  <img src="https://github.com/user-attachments/assets/59005c9f-ff5f-40f4-a420-ee0453fc44a8" alt="Proteus Libraries" width="45%" height="auto">
+</p>
+
+<br/>
+<hr/>
+<br/>
 
 # Proteus Library Simulation Demo
 In this example, we’ll test the Arduino Proteus Simulation with an LED blinking example.
