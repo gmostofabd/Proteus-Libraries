@@ -57,37 +57,43 @@ Unzip the library folder and open it, and you’ll find some folders and files. 
 ![Proteus Libraries](https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c)
 
 
+<hr/>
 
-***How to Install Proteus Library
-**Extract Library Files:
-After downloading the library folder, unzip it and copy all the ( .LIB and .IDX ) files.
-Open the .zip file containing the model library.
+## 🔧 Installation Guide
 
-**Extract the contents, typically finding folder like LIB.
+1. **Close Proteus (ISIS and ARES)**  
+   Ensure that both ISIS and ARES are **not running** before proceeding.
 
-**Locate Proteus Library Folder:
-Identify your Proteus library folder on your computer. The default location may vary based on your Proteus software version.
-For Proteus 8 Professional, it’s often found at:
-C:\Program Files (x86)\Labcenter Electronics\Proteus 8 Professional\DATA\LIBRARY
+2. **Download and Extract the Repo**  
+   - Click on the **Code** button on this GitHub page and select **Download ZIP**.  
+   - Extract the contents to a convenient location on your computer.
 
-** Copy LIB Files:
-Open the LIB folder extracted from the model library.
-Copy the files within the LIB folder.
-Paste these files into your Proteus Library Folder.
+3. **Move Library Files**  
+   Copy or move all `*.LIB` and `*.IDX` files from the extracted folder into the correct Proteus library directory.
 
-** Alternative DATA Folder Location:
-For certain Proteus versions, you might locate the DATA folder in a different path, such as:
+   - If the path `C:\Users\<username>\AppData\Local\VirtualStore\Program Files (x86)\Labcenter Electronics\Proteus 7 Professional\LIBRARY` exists, place the files here.
+   
+   - If not, place them in `C:\Program Files (x86)\Labcenter Electronics\Proteus 7 Professional\LIBRARY`.
+
+---
+
+⚠️ **Note**: Make sure to replace `<username>` with your own Windows username in the file path.
+
+
+
+## 📁 Alternative DATA Folder Location
+
+For certain versions of Proteus, the `DATA` folder might be located in a different path, such as:
+
 C:\ProgramData\Labcenter Electronics\Proteus 8 Professional\DATA
-Note: The ProgramData folder could be hidden, so unhide it if needed.
 
-After copying the library files, restart Proteus to apply the changes. Open Proteus and navigate to the Pick Device Window. Confirm that the added model(s) are available for easy selection and integration into your projects.
-
+> 📝 **Note**: Sometimes, the `LIBRARY` folder might be hidden. If you are unable to locate the folder, make sure to check your **hidden folders** as well. You can do this by adjusting your folder options to **show hidden files and folders**.
 
 ** Open Proteus (ISIS) and Test
 It’s now done, and you can open Proteus (ISIS) and create a new project to test the functionality of the Arduino Proteus Library. And that’s what we’ll be doing in the next section hereafter.
 
-Note: Sometimes, it happens that Library folder is hidden, so if you are unable to find your Library folder then check your hidden folders too.
 
+<hr/>
 
 # Proteus Library Simulation Demo
 In this example, we’ll test the Arduino Proteus Simulation with an LED blinking example.
@@ -100,3 +106,8 @@ Open Proteus ISIS
 Create New Project
 
 Create a Schematic With the Default Template
+
+<hr/>
+
+
+
