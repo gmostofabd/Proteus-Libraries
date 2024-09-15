@@ -62,36 +62,23 @@ The schematic I used in **Proteus ISIS** to convert my PCB is shown below:
 <br/>
 
 
-**Table of Contents**
--  Proteus Libraries
--  Components 3D Models (3ds, STP, Step etc)
--  Simulation Demo
--  Required Attachments (Hex files and others)
--  Instructions (if any)
+## 📚 **Table of Contents**
 
 =========================
-All Proteus Sensor's Libraries 
-👉Arduino  Libraries for Proteus        
-👉Bluetooth Library for Proteus     
-👉Heart Beat sensor for Proteus   
-👉Infrared sensor for Proteus         
-👉L298 Motor driver for Proteus    
-👉LCD 16x2 for Proteus    
-👉PIR Sensor for Proteus                
-👉Ultrasonic sensor for Proteus     
-👉Node MCU library for Proteus               
-👉Soil Moisture            
-======================================
 
+- 👉 **All Proteus Sensor Libraries**  
+  - **Arduino Libraries for Proteus**  
+  - **Bluetooth Library for Proteus**  
+  - **Heart Beat Sensor for Proteus**  
+  - **Infrared Sensor for Proteus**  
+  - **L298 Motor Driver for Proteus**  
+  - **LCD 16x2 for Proteus**  
+  - **PIR Sensor for Proteus**  
+  - **Ultrasonic Sensor for Proteus**  
+  - **Node MCU Library for Proteus**  
+  - **Soil Moisture Sensor for Proteus**
 
-======================================
-** What to do?**
-
-You have to put library files to libray files in labcenter/proteus/library that has files with extension "lib" and other files models you have to it to model files labcenter/proteus/models.
-======================================
-
-
-Unzip the library folder and open it, and you’ll find some folders and files. The Files I’ve marked in the screenshot above, are the model files ( .LIB and .IDX ) that we’ll copy and paste for installing the Arduino Proteus Library. Follow the next section’s step-by-step installation guide.
+=========================
 
 ![Proteus Libraries](https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c)
 
@@ -139,7 +126,9 @@ It’s now done, and you can open Proteus (ISIS) and create a new project to tes
   <img src="https://github.com/user-attachments/assets/59005c9f-ff5f-40f4-a420-ee0453fc44a8" alt="Proteus Libraries" width="45%" height="auto">
 </p>
 
+<br/>
 <hr/>
+<br/>
 
 # Proteus Library Simulation Demo
 In this example, we’ll test the Arduino Proteus Simulation with an LED blinking example.
