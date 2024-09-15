@@ -2,10 +2,10 @@
 
 Here you'll find a curated **collection** of **Proteus Libraries** for:
 
-- **Simulation** 🔬
+- **Simulation Models** 🔬
 - **PCB Footprints** 🛠️
 - **3D Models** 🏗️
-- **Demo Examples** 🎓
+- **Demo Examples (Arduino)** 🎓
 
 These libraries feature a range of **🔧 essential devices** that may not be available directly in your Proteus software. Discover components and models that enhance your simulation and design experience! 🌟
 
