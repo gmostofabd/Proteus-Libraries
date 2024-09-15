@@ -1,4 +1,4 @@
-# 🌟 **Welcome to the Proteus Libraries Collection** 🌟
+# 🌟 **Proteus Libraries Collection** 🌟
 
 Here you'll find a curated **collection** of **Proteus Libraries** for:
 
