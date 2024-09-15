@@ -80,6 +80,27 @@ The schematic I used in **Proteus ISIS** to convert my PCB is shown below:
 
 =========================
 
+=========================
+
+- 👉 **Display Devices**  
+
+  - **LCD 16x2 for Proteus**  
+
+=========================
+
+=========================
+
+- 👉 **Arduino Boards and Sheilds**  
+
+  - **Arduino Uno**
+  -   - **Arduino Nano**
+      -   - **Arduino Uno**
+          -   - **Arduino Uno**  
+
+=========================
+
+
+
 ![Proteus Libraries](https://github.com/user-attachments/assets/55330808-4974-4722-9c54-dd81c476b07c)
 
 
