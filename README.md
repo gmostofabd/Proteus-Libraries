@@ -1,5 +1,17 @@
 # 🌟 **Proteus Libraries** 🌟
 
+Here you'll find a curated **collection** of **Proteus Libraries** for:
+
+- **Simulation Models** 🔬
+- **PCB Footprints** 🛠️
+- **3D Models** 🏗️
+- **Demo Examples (Arduino)** 🎓
+
+These libraries feature a range of **🔧 essential devices** that may not be available directly in your Proteus software. Discover components and models that enhance your simulation and design experience! 🌟
+
+---
+
+
 🔍 **When Do You Need a New Library in Proteus?**
 
 If you're using the **free version of Proteus**, you may often find that certain components or devices are **not available** in the default library. This limitation can affect your ability to simulate more advanced circuits or work with the latest technology.
@@ -20,16 +32,6 @@ By carefully choosing and integrating **custom libraries**, you can still extend
 
 
 
-Here you'll find a curated **collection** of **Proteus Libraries** for:
-
-- **Simulation Models** 🔬
-- **PCB Footprints** 🛠️
-- **3D Models** 🏗️
-- **Demo Examples (Arduino)** 🎓
-
-These libraries feature a range of **🔧 essential devices** that may not be available directly in your Proteus software. Discover components and models that enhance your simulation and design experience! 🌟
-
----
 
 ![proteuslogo2](https://github.com/user-attachments/assets/80902421-4440-4199-8832-ccf42d149324) 
 <br/>
