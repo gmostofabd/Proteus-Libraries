@@ -47,6 +47,12 @@ By carefully choosing and integrating **custom libraries**, you can still extend
 
 Following the highly popular Proteus 7, the platform has evolved with the introduction of Proteus version 8, which brings even more advanced features and improved functionality for modern design and simulation needs. Whether you're working on microcontroller projects, IoT devices, or complex circuit designs, Proteus continues to be a valuable tool in the embedded systems ecosystem.
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/832e247f-9438-4411-a0b1-71cb9bed474a" alt="Proteus Libraries" width="45%" height="auto">
+  <img src="https://github.com/user-attachments/assets/1899fd1e-a4dc-428b-a672-2d73f9e07407" alt="Proteus Libraries" width="45%" height="auto">
+</p>
+
 ![Irregation Controller 1](https://github.com/user-attachments/assets/832e247f-9438-4411-a0b1-71cb9bed474a)
 
 ![Proteus Library Thumbnail_1](https://github.com/user-attachments/assets/1899fd1e-a4dc-428b-a672-2d73f9e07407)
