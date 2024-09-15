@@ -41,6 +41,13 @@ By carefully choosing and integrating **custom libraries**, you can still extend
 
 
 <br/>
+<hr/>
+<br/>
+Here you can see a **3D model of an irrigation controller circuit PCB** in Proteus software. Do you think all the components shown here are available in your default library? The answer is likely **no**.
+
+In my case, I'm currently using **Proteus version 8.17 (SP0)**, and I’ve encountered the same issue. Some of the parts required for the design were missing from the default library. For example, I couldn't find the necessary **footprint for the 16x2 LCD** used in the controller circuit.
+
+This highlights the importance of having access to **custom libraries** when working on more advanced designs or specific projects. 
 
 ![Irregation Controller 2](https://github.com/user-attachments/assets/eadb2674-f198-4313-937b-edfed6aa9870)
 
