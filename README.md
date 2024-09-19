@@ -66,19 +66,36 @@ The schematic I used in **Proteus ISIS** to convert my PCB is shown below:
 
 =========================
 
-- 👉 **All Proteus Sensor Libraries**  
-  - **Arduino Libraries for Proteus**  
-  - **Bluetooth Library for Proteus**  
-  - **Heart Beat Sensor for Proteus**  
-  - **Infrared Sensor for Proteus**  
-  - **L298 Motor Driver for Proteus**  
-  - **LCD 16x2 for Proteus**  
-  - **PIR Sensor for Proteus**  
-  - **Ultrasonic Sensor for Proteus**  
-  - **Node MCU Library for Proteus**  
-  - **Soil Moisture Sensor for Proteus**
+- 👉 **Arduino Boards and Sheilds**  
+
+  - **Arduino Uno**
+  - **Arduino Nano**
+  - **Node MCU**
+  - **Wemos D1**  
 
 =========================
+
+
+
+=========================
+
+- 👉 **Sensors Libraries**  
+
+  - **IR Sensor**
+  - **Flame Sensor**
+  - **Gas Sensor**
+  - **Heart Beat Sensor**
+  - **Temperature Sensor (DS18B20)**
+  - **Color Sensor**
+  - **Ultrasonic Sensor**
+  - **PIR Sensor**
+  - **Soil Moisture Sensor**
+  - **DHT11/22 (Temp + Humi) Sensor** 
+
+=========================
+
+
+
 
 =========================
 
@@ -93,14 +110,15 @@ The schematic I used in **Proteus ISIS** to convert my PCB is shown below:
 
 =========================
 
-- 👉 **Arduino Boards and Sheilds**  
-
-  - **Arduino Uno**
-  - **Arduino Nano**
-  - **Node MCU**
-  - **Wemos D1**  
-
+- 👉 **Interface Modules Libraries**  
+  - **Bluetooth Library for Proteus**  
+  - **L298 Motor Driver for Proteus**
+  - **RTC (DS1307) Module Libraries**  
+  
 =========================
+
+
+
 
 
 
