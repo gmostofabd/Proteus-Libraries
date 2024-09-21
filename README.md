@@ -13,6 +13,22 @@ These libraries feature a range of **🔧 essential devices** that may not be av
 
 ---
 
+<div style="display: flex; justify-content: space-between; flex-wrap: nowrap;">
+    <img src="https://github.com/gmostofabd/Proteus-Libraries/blob/7d33b14fbae93d9d05113027c16cbb15cd9bd64c/assets/ISIS.png" alt="Proteus ISIS" style="width: 30%; height: auto;" />
+    <img src="https://github.com/gmostofabd/Proteus-Libraries/blob/7d33b14fbae93d9d05113027c16cbb15cd9bd64c/assets/ares.png" alt="Proteus ARES" style="width: 30%; height: auto;" />
+    <img src="https://github.com/gmostofabd/Proteus-Libraries/blob/7d33b14fbae93d9d05113027c16cbb15cd9bd64c/assets/CAD.png" alt="CAD Models" style="width: 30%; height: auto;" />
+<p style="font-size: 18px; font-weight: bold;">Proteus Simulation Models</p>
+<p style="font-size: 18px; font-weight: bold;">PCB Footprints</p>
+<p style="font-size: 18px; font-weight: bold;">3D CAD Models</p>   
+</div>
+
+
+
+
+
+
+
+
 🔍 **When Do You Need a New Library in Proteus?**
 
 If you're using the **free version of Proteus**, you may often find that certain components or devices are **not available** in the default library. This limitation can affect your ability to simulate more advanced circuits or work with the latest technology.
