@@ -1,10 +1,13 @@
-Here’s the revised version with "sources" replacing "types":
-
----
-
 # 🌟 **Proteus Libraries** 🌟
 
+
 Before we dive into the details of Proteus libraries, it's assumed that you have a foundational understanding of **electronics design** and **PCB development**. However, let’s take a quick review of the basics of **Proteus Design Suite** to ensure we’re all on the same page.
+
+
+<p align="center">
+<img src="https://github.com/gmostofabd/Proteus-Libraries/blob/744c6c31d987f8810724fba236198f56e6f68f24/assets/Proteus_Libraries_Thumbnail_1.png" alt="Real World look" style="width: 90%; height: auto;" />
+
+</p>
 
 ---
 
