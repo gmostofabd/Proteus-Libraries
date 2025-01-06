@@ -1,0 +1,28 @@
+LISA MODEL DESCRIPTION FORMAT 8.0
+=================================
+Design:   FlexSensorModel.pdsprj
+Doc. no.: ETPL-016
+Revision: 1
+Author:   M.Usman
+Created:  9/03/2024
+Modified: 09/03/2024
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,2    
+SW1,RTSWITCH,RTSWITCH,PRIMITIVE=PASSIVE,R(0)=100k,R(1)=92.5k,R(2)=85k,R(3)=77.5k,R(4)=70k,R(5)=62.5k,R(6)=55k,R(7)=47.5k,R(8)=40k,R(9)=32.5k,R(10)=25k,STATE=<STATE>,TSWITCH=1m
+SW2,RTSWITCH,RTSWITCH,PRIMITIVE=PASSIVE,R(0)=25k,R(1)=32.5k,R(2)=40k,R(3)=47.5k,R(4)=55k,R(5)=62.5k,R(6)=70k,R(7)=77.5k,R(8)=85k,R(9)=92.5k,R(10)=100k,STATE=<STATE>,TSWITCH=1m
+
+*NETLIST,2    
+1,4
+1,GT
+SW1,PS,1
+SW1,PS,2
+SW2,PS,1
+
+2,2
+2,GT
+SW2,PS,2
+
