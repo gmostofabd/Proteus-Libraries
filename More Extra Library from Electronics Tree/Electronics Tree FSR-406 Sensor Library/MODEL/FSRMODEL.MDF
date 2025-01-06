@@ -1,0 +1,28 @@
+LISA MODEL DESCRIPTION FORMAT 8.0
+=================================
+Design:   FSR MODEL.pdsprj
+Doc. no.: ETPL-021
+Revision: 1
+Author:   M.Usman
+Created:  11/03/2024
+Modified: 26/04/2024
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,2    
+SW1,RTSWITCH,RTSWITCH,PRIMITIVE=PASSIVE,R(0)=10000k,R(1)=30k,R(2)=20k,R(3)=15k,R(4)=10k,R(5)=9k,R(6)=8k,R(7)=7.5k,R(8)=7k,R(9)=6k,R(10)=4k,R(11)=3.5k,R(12)=2.7k,R(13)=2k,R(14)=1.9k,R(15)=1.6k,R(16)=1.5k,R(17)=1.3k,R(18)=1.2k,R(19)=0.7k,R(20)=0.55k,R(21)=0.45k,R(22)=0.4k,R(23)=0.35k,R(24)=0.31k,R(25)=0.29k,R(26)=0.27k,R(27)=0.25k,STATE=<STATE>,TSWITCH=1m
+SW2,RTSWITCH,RTSWITCH,PRIMITIVE=PASSIVE,R(0)=0.25k,R(1)=0.27k,R(2)=0.29k,R(3)=0.31k,R(4)=0.35k,R(5)=0.4k,R(6)=0.45k,R(7)=0.55k,R(8)=0.7k,R(9)=1.2k,R(10)=1.3k,R(11)=1.5k,R(12)=1.6k,R(13)=1.9k,R(14)=2k,R(15)=2.7k,R(16)=3.5k,R(17)=4k,R(18)=6k,R(19)=7k,R(20)=7.5k,R(21)=8k,R(22)=9k,R(23)=10k,R(24)=15k,R(25)=20k,R(26)=30k,R(27)=10000k,STATE=<STATE>,TSWITCH=1m
+
+*NETLIST,2    
+1,2
+1,GT
+SW1,PS,1
+
+2,4
+2,GT
+SW1,PS,2
+SW2,PS,1
+SW2,PS,2
+
