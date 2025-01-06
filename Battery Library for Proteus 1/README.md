@@ -1,1 +1,0 @@
-# Battery-Library-for-proteus
