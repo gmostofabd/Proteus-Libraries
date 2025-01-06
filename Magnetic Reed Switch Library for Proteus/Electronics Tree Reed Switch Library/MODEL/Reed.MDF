@@ -1,0 +1,25 @@
+LISA MODEL DESCRIPTION FORMAT 8.0
+=================================
+Design:   ReedSwitchModel.pdsprj
+Doc. no.: ETPL-017
+Revision: 1
+Author:   M.Usman
+Created:  3/9/2024
+Modified: 3/9/2024
+
+*PROPERTIES,0    
+
+*MODELDEFS,0    
+
+*PARTLIST,1    
+SW1,RTSWITCH,RTSWITCH,PRIMITIVE=PASSIVE,R(0)=100M,R(1)=0.1,STATE=<STATE>,TSWITCH=1m
+
+*NETLIST,2    
+1,2
+1,GT
+SW1,PS,1
+
+2,2
+2,GT
+SW1,PS,2
+
