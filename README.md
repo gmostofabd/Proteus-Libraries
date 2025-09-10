@@ -5,10 +5,12 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/35050cde-3360-4d2e-ae23-ab015865d7ca" alt="Steps of Adding Proteus Library" style="width: 70%; height: auto;" />
+<img src="https://github.com/user-attachments/assets/be4d9ec7-f65c-4112-a225-0b7a4d3d917f" alt="Steps of Adding Proteus Library" style="width: 70%; height: auto;" />
 </p>
 
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/35050cde-3360-4d2e-ae23-ab015865d7ca" alt="Steps of Adding Proteus Library" style="width: 70%; height: auto;" />
+</p>
 
 ---
 
