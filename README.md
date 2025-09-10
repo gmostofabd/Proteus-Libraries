@@ -1,8 +1,14 @@
 # 🌟 **Proteus Libraries** 🌟
 
 <p align="center">
-<img src="https://github.com/gmostofabd/Proteus-Libraries/blob/744c6c31d987f8810724fba236198f56e6f68f24/assets/Proteus_Libraries_Thumbnail_1.png" alt="Real World look" style="width: 90%; height: auto;" />
+<img src="https://github.com/gmostofabd/Proteus-Libraries/blob/744c6c31d987f8810724fba236198f56e6f68f24/assets/Proteus_Libraries_Thumbnail_1.png" alt="Real World look" style="width: 70%; height: auto;" />
 </p>
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/35050cde-3360-4d2e-ae23-ab015865d7ca" alt="Steps of Adding Proteus Library" style="width: 70%; height: auto;" />
+</p>
+
+
 
 ---
 
